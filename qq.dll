@@ -1,0 +1,18 @@
+#74.208.10.249 gs.apple.com
+#127.0.0.1 gs.apple.com
+127.0.0.1                   173.255.195.56
+127.0.0.1                   check.recoverlostpassword.com
+127.0.0.1                   check1.recoverlostpassword.com
+127.0.0.1                   173.255.195.56
+127.0.0.1                   check.recoverlostpassword.com
+127.0.0.1                   check1.recoverlostpassword.com
+127.0.0.1                   173.255.195.56
+127.0.0.1                   check.recoverlostpassword.com
+127.0.0.1                   check1.recoverlostpassword.com
+#127.0.0.1 xboxlive.com
+#127.0.0.1 user.auth.xboxlive.com
+#127.0.0.1 presence-heartbeat.xboxlive.com
+#127.0.0.1 www.forum.cfx.re
+#127.0.0.1 https://forum.cfx.re/
+#127.0.0.1 https://forum.cfx.re
+127.0.0.1 forum.cfx.re www.forum.cfx.re
